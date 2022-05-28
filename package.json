@@ -1,0 +1,14 @@
+{
+  "name": "fcc-node-express",
+  "version": "1.0.0",
+  "description": "youtube tut",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nb",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
